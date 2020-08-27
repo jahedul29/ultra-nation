@@ -1,0 +1,13 @@
+.single-country {
+  display: flex;
+  border: 2px solid green;
+  margin: 2%;
+  padding: 2%;
+  background-color: rgb(206, 212, 223);
+  border-radius: 10px;
+}
+
+.single-country img {
+  width: 20%;
+  margin-right: 5%;
+}
